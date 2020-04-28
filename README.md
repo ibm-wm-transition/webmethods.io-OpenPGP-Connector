@@ -40,18 +40,7 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 ![Public Key](https://user-images.githubusercontent.com/16189220/80452853-bf63ed80-8944-11ea-914e-e2088700fa93.png)
 
 ### Encrypted Message
------BEGIN PGP MESSAGE-----
-
-Version: OpenPGP.js v4.10.1
-
-Comment: https://openpgpjs.org
-
-wV4DJi2QPUvgAfQSAQdAsR4JrLaXoA9MRbfEuhozE+qBq2ddQqaLIR2fJhvo
-GA8wQg6ZnMSbMRHWsgUq5QlWtGKyCM49XA2SYlO72rv+JERbFXJOnwmldHo4
-/oUOOGuu0kUBZI/XTLuerhI+4gp6xLIURu+3erZeWA5DsdiHFyj4ebJ0S+9e
-+g32wtukL5ks+vHBO/KQK2NNr880/znnU/aFZfREMjI=
-=ls5I
------END PGP MESSAGE-----
+![Encrypted Message](https://user-images.githubusercontent.com/16189220/80452916-eae6d800-8944-11ea-91d2-643ed5bddfd7.png)
 
 ## Built With
 Node v8.14.0 and [wmiocli](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0), webmethod.io's iPaaS Connector Builder CLI.
