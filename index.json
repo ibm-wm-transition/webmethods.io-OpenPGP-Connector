@@ -1,0 +1,15 @@
+{
+  "name": "OpenPGP_Connector",
+  "description": "This is a connector for applying OpenPGP encryption and decrytion on your message",
+  "triggers": [],
+  "actions": [
+    "/v1/encrypt",
+    "/v1/decrypt"
+  ],
+  "version": 1,
+  "auth_type": "noauth",
+  "doc_link": "http://docs.example.com",
+  "appId": "b24d102d-012a-42df-a85a-436783c107ca",
+  "guid": "756455a6-5264-4f88-936c-3e3f7fa6826a",
+  "connectionUid": "openpgp_connector_1587114121895"
+}

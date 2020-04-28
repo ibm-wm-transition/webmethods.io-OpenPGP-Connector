@@ -1,0 +1,9 @@
+{
+	"name": "openpgp_connector",
+	"version": "1.0.0",
+	"description": "This is a connector for applying OpenPGP encryption and decrytion on your message",
+	"dependencies": {
+		"@webmethodsio/cli-sdk": "*",
+		"openpgp": "^4.10.1"
+	}
+}
