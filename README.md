@@ -35,7 +35,9 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 
 ### Private Key
 -----BEGIN PGP PRIVATE KEY BLOCK-----
+
 Version: OpenPGP.js v4.10.1
+
 Comment: https://openpgpjs.org
 
 xYYEXpp6ShYJKwYBBAHaRw8BAQdAga7oNUZdvOY/wXPKJzdeCH0wR7xh8w1n
@@ -56,7 +58,9 @@ DT5wzDYfvFkHNTugPcUR6Yhr5gD/d5Ab97PZ4FW9c54N3BfXEJlkmxc36K83
 
 ### Public Key
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: OpenPGP.js v4.10.1
+
 Comment: https://openpgpjs.org
 
 xjMEXpVmuRYJKwYBBAHaRw8BAQdAZClo0cLMW8jQf80AHG0tQcLAtH8cIkTz
@@ -73,7 +77,9 @@ Dg==
 
 ### Encrypted Message
 -----BEGIN PGP MESSAGE-----
+
 Version: OpenPGP.js v4.10.1
+
 Comment: https://openpgpjs.org
 
 wV4DJi2QPUvgAfQSAQdAsR4JrLaXoA9MRbfEuhozE+qBq2ddQqaLIR2fJhvo
