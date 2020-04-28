@@ -34,27 +34,7 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 ## Format Examples
 
 ### Private Key
------BEGIN PGP PRIVATE KEY BLOCK-----
-
-Version: OpenPGP.js v4.10.1
-
-Comment: https://openpgpjs.org
-
-xYYEXpp6ShYJKwYBBAHaRw8BAQdAga7oNUZdvOY/wXPKJzdeCH0wR7xh8w1n
-nHRp1a8M8gX+CQMIJ1BlF5ePBnngwka9etyN+CdyEi5jdRb6gInN9dHh/KmZ
-oK+b+moL5Axcn9s30jQLfe56L3CobMPlsW2OgctNMJUO1UXSAK0qpHRrMTfW
-+80wTmF3YWppc2ggQW53YXIgTGFza2FyIDxsYXNrYXJuYXdhamlzaEBnbWFp
-bC5jb20+wngEEBYKACAFAl6aekoGCwkHCAMCBBUICgIEFgIBAAIZAQIbAwIe
-AQAKCRBJzb+mLBbCl2IQAP0UZ955NHn+zaNs2B5gSB9Jo02Yyyxhy5LviHX+
-bfFGLwD/c13akRqfvI9FK/OZjdUWJ3exnfJbFT2U78CCwwW2qA7HiwRemnpK
-EgorBgEEAZdVAQUBAQdAT43+Wztu14vzSYBMG+ysqg4+dGNXj16n9awhmYlF
-YG0DAQgH/gkDCMUO5+uv/pn/4CJaUpHZUKinTSQQGKOCaWDoQ07/dvKwfpVZ
-wXOdxIk5C9LOhuxW/wfFmWsyPQKdbNfRtkYTHmVOOGplVek1vt1JTLFzWd/nC
-YQQYFggACQUCXpp6SgIbDAAKCRBJzb+mLBbCl+4xAP9TGfUg3CttGw5iqaaq
-DT5wzDYfvFkHNTugPcUR6Yhr5gD/d5Ab97PZ4FW9c54N3BfXEJlkmxc36K83
-7Clg2qAR3Q4=
-=amNl
------END PGP PRIVATE KEY BLOCK-----
+![Private Key](https://user-images.githubusercontent.com/16189220/80452759-8c215e80-8944-11ea-8260-a0159376b46c.png)
 
 ### Public Key
 -----BEGIN PGP PUBLIC KEY BLOCK-----
