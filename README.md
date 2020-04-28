@@ -28,6 +28,9 @@ The connector has been built with [wmiocli](https://docs.webmethods.io/integrati
 
 Once deployed, it’ll be automatically registered with webMethods.io Integration and will be available to you locally in the Connectors panel under the Services tab.
 
+## Running the tests
+To test, you can execute `wmio test`.
+
 ## Deployment
 Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And `wmio unpublish` to unpublish the published connector app along with triggers and actions associated with the app.
 
