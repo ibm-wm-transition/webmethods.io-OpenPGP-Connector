@@ -1,5 +1,7 @@
 # webmethods.io-OpenPGP-Connector
-This is a Webmethods.io community connector that uses the [OpenPGP](https://www.openpgp.org/) protocol to perform encryption and decryption of string data. Two actions are supported - encrypt and decrypt.
+This is a Webmethods.io community connector that uses the [OpenPGP](https://www.openpgp.org/) protocol to perform encryption and decryption of string data. Two actions are supported - 
+* Encrypt
+* Decrypt.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
