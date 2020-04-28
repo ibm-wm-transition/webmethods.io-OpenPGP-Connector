@@ -37,23 +37,7 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 ![Private Key](https://user-images.githubusercontent.com/16189220/80452759-8c215e80-8944-11ea-8260-a0159376b46c.png)
 
 ### Public Key
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-Version: OpenPGP.js v4.10.1
-
-Comment: https://openpgpjs.org
-
-xjMEXpVmuRYJKwYBBAHaRw8BAQdAZClo0cLMW8jQf80AHG0tQcLAtH8cIkTz
-FwQPrrii6unNG0pvbiBTbWl0aCA8am9uQGV4YW1wbGUuY29tPsJ4BBAWCgAg
-BKEelWa5BgsJBwgDAgQVCAoCBBYCAQACGQECGwMCHgEACgkQRSSb10eAnOCr
-pAD/VB6MLtaIiGeiD6oDye/4YtJedw0oRTS9sbh7AFj17nkA/3EvsUWPnEwh
-t3Km6v8MYwlVspVRWhgJteyHP5umSsIKzjgEXpVmuRIKKwYBBAGXVQEFAQEH
-QL+mk9GFkAko6sbF4uMteg+NNZALs1Wz1OZR1f6CAuABAwEIB8JhBBgWCAAJ
-BQJelWa5AhsMAAoJEEUkmodHgJzgUk8A/Av96VGZoY/9CI4SPXTPLXzu1+R+
-N5gtAdB5g4zxvCmRAP0bRPxuUyhlROeQPYxRiKkoRBXo8Be1YDE1g5VOLzgH
-Dg==
-=m8ZK
------END PGP PUBLIC KEY BLOCK-----
+![Public Key](https://user-images.githubusercontent.com/16189220/80452853-bf63ed80-8944-11ea-914e-e2088700fa93.png)
 
 ### Encrypted Message
 -----BEGIN PGP MESSAGE-----
