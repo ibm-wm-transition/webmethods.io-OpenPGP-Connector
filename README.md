@@ -29,7 +29,7 @@ Once deployed, it’ll be automatically registered with webMethods.io Integratio
 ## Deployment
 Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And `wmio unpublish` to unpublish the published connector app along with triggers and actions associated with the app.
 
-![OpenPGP Connector](https://user-images.githubusercontent.com/16189220/80452074-136dd280-8943-11ea-8f32-7c82c2472623.png)
+![OpenPGP Connector](https://user-images.githubusercontent.com/16189220/80452564-2cc34e80-8944-11ea-8e81-3ed9ae93ada9.png)
 
 ## Format Examples
 
