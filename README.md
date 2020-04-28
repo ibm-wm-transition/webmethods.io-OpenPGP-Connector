@@ -1,5 +1,5 @@
 # webmethods.io-OpenPGP-Connector
-This is a Webmethods.io community connector that uses the [OpenPGP](https://www.openpgp.org/) protocol to perform encryption and decryption of string data. The connector was built using [openpgp.js](https://www.npmjs.com/package/openpgp) npm package.
+This is a Webmethods.io community connector that uses the [OpenPGP](https://www.openpgp.org/) protocol to perform encryption and decryption of string data. Two actions are supported - encrypt and decrypt.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -15,7 +15,7 @@ Note: If you have installed any other Node version on your system, you can:
   - For Mac, use [homebrew](https://brew.sh/).
 2. Build your app using your existing Node version and then transpile your code using a transpiler like [Babel](https://babeljs.io/).
 
-The connector has been built with [wmiocli](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0), webmethod.io's iPaaS Connector Builder CLI tool, which must be installed. 
+The connector has been built with [wmiocli](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0), webmethod.io's iPaaS Connector Builder CLI tool and [openpgp.js](https://www.npmjs.com/package/openpgp), a JavaScript implementation of the OpenPGP protocol. 
 
 ### Installing
 1. Clone the repo `https://github.com/yuvanmytri/webmethods.io-BambooHR-Community-Connector.git`.
