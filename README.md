@@ -36,7 +36,9 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 
 ![OpenPGP Connector](https://user-images.githubusercontent.com/16189220/80452564-2cc34e80-8944-11ea-8e81-3ed9ae93ada9.png)
 
-## Format Examples
+## Key Format Examples
+
+**Note:** You can use this **[key generator](https://pgpkeygen.com/)** to generat keys for testing.
 
 ### Private Key
 ![Private Key](https://user-images.githubusercontent.com/16189220/80452759-8c215e80-8944-11ea-8260-a0159376b46c.png)
@@ -49,8 +51,6 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 
 ## Built With
 Node v8.14.0 and [wmiocli](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0), webmethod.io's iPaaS Connector Builder CLI.
-
-**Note:** *You can use this **[key generator](https://pgpkeygen.com/)** to generat keys for testing.*
 
 ## Contributors
 [Anshuman Saikia](https://github.com/anshu96788) |
